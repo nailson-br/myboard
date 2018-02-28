@@ -4,4 +4,7 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen" title="no title" charset="utf-8">
   <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js" charset="utf-8"></script>
   <script type="text/javascript" src="/js/bootstrap.min.js" charset="utf-8"></script>
+  <style type="text/css">
+	body { padding-top: 70px; }
+  </style>
 </head>

@@ -4,8 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Task extends Model
+class TeamMember extends Model
 {
     //
-    protected $table = 'tasks';
 }

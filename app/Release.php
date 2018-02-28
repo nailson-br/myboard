@@ -7,4 +7,5 @@ use Illuminate\Database\Eloquent\Model;
 class Release extends Model
 {
     //
+    protected $table = 'releases';
 }
